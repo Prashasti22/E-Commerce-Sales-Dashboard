@@ -17,7 +17,7 @@ A US-based e-commerce sales company needs a sales dashboard to visualize YTD Sal
 
 This project involves building a comprehensive Power BI dashboard to visualize and analyze sales data for a US-based e-commerce company. The goal is to provide insights on Year-to-Date (YTD) Sales, Profit, and other key performance indicators (KPIs) to support data-driven decision-making. By connecting to SQL data, performing data cleaning, and leveraging DAX measures, this dashboard helps the company monitor and enhance its sales and customer satisfaction.
 
-## Dashboard Snapshot
+## Dashboard Snapshot (Power BI)
 <img width="671" alt="Screenshot 2024-11-06 191744" src="https://github.com/user-attachments/assets/2d8908f7-2e38-4d34-bc9b-4863f97fda2f">
 
 ## Project Steps
