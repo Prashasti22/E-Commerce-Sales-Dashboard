@@ -85,3 +85,6 @@ Boosted data-driven decision-making by 10% through strategic KPI calculations, l
 #### Increased Customer Satisfaction:
 Made data more accessible with an interactive dashboard, resulting in a 12% increase in overall customer satisfaction.
 
+
+
+<img width="671" alt="Screenshot 2024-11-06 191744" src="https://github.com/user-attachments/assets/2d8908f7-2e38-4d34-bc9b-4863f97fda2f">
